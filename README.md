@@ -1,13 +1,27 @@
-<!--
- * @Author: your name
- * @Date: 2020-09-27 10:30:20
- * @LastEditTime: 2020-09-27 15:50:43
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \undefinedd:\Code\Flutter_code\FlutterLearn\README.md
--->
 # FlutterLearn
 Learn Flutter.
 
-Day-01
-    1.1 Words
+### Day-01
+####     1.1 gradientapplication
+
+####     1.2 imageapplication
+
+####     1.3 listviewapplication
+
+####     1.4 gridviewapplication
+
+####     1.5 rowapplication
+
+### Day-02
+####     2.1 columnapplication
+
+####     2.2 stackapplication
+
+####     2.3 cardapplication
+
+####     2.4 navigationapplication
+
+####     2.5 navigationsenddataapplication
+
+#### 	
+
