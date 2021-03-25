@@ -49,3 +49,13 @@ Learn Flutter.
 #### 	4.4 expansionpanellist
 
 #### 	4.5 customclipper
+
+### Day-05
+
+#### 	5.1 splash
+
+#### 	5.2 rightswipback
+
+#### 	5.3 tooltips
+
+#### 	5.4 draggable
